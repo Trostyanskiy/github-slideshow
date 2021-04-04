@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Commits 101
+edited
 Use the left arrow to go back!
